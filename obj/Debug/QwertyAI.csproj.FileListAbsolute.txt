@@ -1,0 +1,8 @@
+D:\Adobe\Comp 1\VS Saves\QwertyAI\bin\Debug\QwertyAI.exe.config
+D:\Adobe\Comp 1\VS Saves\QwertyAI\bin\Debug\QwertyAI.exe
+D:\Adobe\Comp 1\VS Saves\QwertyAI\bin\Debug\QwertyAI.pdb
+D:\Adobe\Comp 1\VS Saves\QwertyAI\obj\Debug\QwertyAI.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\QwertyAI\obj\Debug\QwertyAI.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\QwertyAI\obj\Debug\QwertyAI.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\QwertyAI\obj\Debug\QwertyAI.exe
+D:\Adobe\Comp 1\VS Saves\QwertyAI\obj\Debug\QwertyAI.pdb
